@@ -1,7 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<workflow xmlns="http://vmware.com/vco/workflow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://vmware.com/vco/workflow http://vmware.com/vco/workflow/Workflow-v4.xsd" root-name="item1" object-name="workflow:name=generic" id="99984f64-9d39-499d-9235-247c05a1d3c3" version="0.0.1" api-version="6.0.0" allowed-operations="vef" restartMode="1" resumeFromFailedMode="0">
+<workflow xmlns="http://vmware.com/vco/workflow" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://vmware.com/vco/workflow http://vmware.com/vco/workflow/Workflow-v4.xsd" root-name="item1" object-name="workflow:name=generic" id="99984f64-9d39-499d-9235-247c05a1d3c3" version="0.0.2" api-version="6.0.0" allowed-operations="vef" restartMode="1" resumeFromFailedMode="0">
   <display-name><![CDATA[New workflow 2]]></display-name>
   <position y="50.0" x="100.0"/>
+  <attrib name="att0" type="number" read-only="false" conf-id="411887ad-1081-40e4-aed8-d0e2612aa6d2" conf-key="WFvCOMachineMenuNumber">
+    <value encoded="n"><![CDATA[__NULL__]]></value>
+  </attrib>
   <workflow-item name="item0" type="end" end-mode="0">
     <position y="45.40909090909091" x="384.5"/>
   </workflow-item>
