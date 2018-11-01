@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
 <properties>
-<comment>https://192.168.1.230:8283</comment>
+<comment>https://192.168.1.233:8283</comment>
 <entry key="vso-build-nb">4629841</entry>
 <entry key="pkg-description"></entry>
 <entry key="pkg-name">org.company.mypackage</entry>
 <entry key="used-plugins"></entry>
 <entry key="pkg-owner">O=VMware,OU=Unknown,CN=vRO localhost.fios-router.home 8d7775b1-e4c1-43e4-b3b5-6d6094479c3f</entry>
 <entry key="vso-version">7.2.0.4629841</entry>
-<entry key="pkg-id">4028816666cc4dab0166cc5723a300aa</entry>
+<entry key="pkg-id">4028816666d080720166d098a892004d</entry>
 </properties>
